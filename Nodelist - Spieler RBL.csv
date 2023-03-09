@@ -1,0 +1,45 @@
+ID,Name,Typ,Verein,Jugendverein,Land,Am,MW,Einsatz
+rbl1,Peter Gulacsi,1,rbl,mtk,,,E,1
+rbl2,Mohamed Simakan,1,rbl,stra,,,H,1
+rbl4,Willi Orban,1,rbl,fck,,,F,1
+rbl7,Dani Olmo,1,rbl,bar,,,J,1
+rbl8,Amadou Haidara,1,rbl,bama,,,G,1
+rbl9 ,Yussuf Poulsen,1,rbl,lyn,,,I,1
+rbl10,Emil Forsberg,1,rbl,sun,,,H,1
+rbl11,Timo Werner,1,rbl,vfbj,,,L,1
+rbl13,Orjan Nyland,1,rbl,hoed,,,B,1
+rbl16,Lukas Klostermann,1,rbl,bocj,,,I,1
+rbl17,Dominik Szoboszlai,1,rbl,rbs,,,I,1
+rbl18,Christopher Nkunku,1,rbl,psg,,,L,1
+rbl19,Andre Silva,1,rbl,prt,,,J,1
+rbl21,Janis Blaswich,1,rbl,bmgj,,,A,1
+rbl22,David Raum,1,rbl,fur,,,H,1
+rbl23,Marcel Halstenberg,1,rbl,han,,,G,1
+rbl24,Xaver Schlager,1,rbl,rbs,,,H,1
+rbl25,Sanoussy Ba,1,rbl,rblj,,,A,1
+rbl27,Konrad Laimer,1,rbl,rbs,,,H,1
+rbl32,Josko Gvardiol,1,rbl,zag,,,L,1
+rbl37,Abdou Diallo,1,rbl,asm,,,I,1
+rbl39,Benjamin Henrichs,1,rbl,levj,,,F,1
+rbl44,Kevin Kampl,1,rbl,levj,,,G,1
+mtk,MTK Budapest,2,NA,NA,,,,
+stra,Racing Strassbourg,2,NA,NA,,,,
+fck,1. FC Kaiserslautern,2,NA,NA,,,,
+bar,FC Barcelona,2,NA,NA,,,,
+bama,JMG Academy Bamako,2,NA,NA,,,,
+lyn,Lyngby BK,2,NA,NA,,,,
+sun,GIF Sundsvall,2,NA,NA,,,,
+vfbj,VfB Stuttgart Jugend,2,NA,NA,,,,
+hoed,IL Hoedd,2,NA,NA,,,,
+bocj,VfL Bochum Jugend,2,NA,NA,,,,
+rbs,Red Bull Salzburg,2,NA,NA,,,,
+psg,Paris St. Germain,2,NA,NA,,,,
+prt,FC Porto,2,NA,NA,,,,
+bmgj,Moenchengladbach Jugend,2,NA,NA,,,,
+fur,Spvgg Greuther Fuerth,2,NA,NA,,,,
+han,Hansa Rostock,2,NA,NA,,,,
+rblj,Red Bull Leipzig Jugend,2,NA,NA,,,,
+zag,Dinamo Zagreb,2,NA,NA,,,,
+asm,AS Monaco,2,NA,NA,,,,
+levj,Bayer 04 Leverkusen Jugend,2,NA,NA,,,,
+bl,Bundesliga,3,NA,NA,,,,
