@@ -1,0 +1,44 @@
+ID,Name,Typ,Verein,Jugendverein,MW
+fcb1,Manuel Neuer,1,fcb,gelj,J
+fcb2,Dayot Upamecano,1,fcb,vafc,K
+fcb4,Mathijs de Ligt,1,fcb,aja,L
+fcb5,Benjamin Pavard,1,fcb,lil,J
+fcb6,Joshua Kimmich,1,fcb,vfbj,L
+fcb7,Serge Gnabry,1,fcb,ars,L
+fcb8,Leon Goretzka,1,fcb,bocj,L
+fcb10,Leroy Sane,1,fcb,gelj,L
+fcb11,Kingsley Coman,1,fcb,psg,L
+fcb13,Eric Maxim Choupo Moting,1,fcb,hsv,D
+fcb14,Paul Wanner,1,fcb,fcb,B
+fcb17,Sadio Mane,1,fcb,foot,L
+fcb19,Alphonso Davies,1,fcb,vanw,L
+fcb20,Bouna Sarr,1,fcb,met,D
+fcb21,Lucas Hernandez,1,fcb,atm,L
+fcb22,Joao Cancelo,1,fcb,ben,L
+fcb23,Daley Blind,1,fcb,aja,G
+fcb25,Thomas Mueller,1,fcb,fcbj,L
+fcb26,Sven Ulreich,1,fcb,vfbj,D
+fcb27,Yann Sommer,1,fcb,bas,E
+fcb38,Ryan Gravenberch,1,fcb,aja,I
+fcb39,Mathys Tel,1,fcb,ren,F
+fcb40,Noussair Mazraoui,1,fcb,aja,H
+fcb42,Jamal Musiala,1,fcb,fcbj,L
+fcb44,Josip Stanisic,1,fcb,fcbj,D
+gelj,FC Schalke 04 Jugend,2,NA,NA,NA
+vafc,FC Valenciennes,2,NA,NA,NA
+aja,Ajax Amsterdam,2,NA,NA,NA
+lil,Lille OSC,2,NA,NA,NA
+vfbj,VfB Stuttgart Jugend,2,NA,NA,NA
+ars,FC Arsenal,2,NA,NA,NA
+bocj,VfL Bochum Jugend,2,NA,NA,NA
+psg,Paris St Germain,2,NA,NA,NA
+hsv,Hamburger SV,2,NA,NA,NA
+fcb,FC Bayern München,2,NA,NA,NA
+foot,Generation Foot,2,NA,NA,NA
+vanw,Vancouver Whitecaps,2,NA,NA,NA
+met,FC Metz,2,NA,NA,NA
+atm,Atletico Madrid,2,NA,NA,NA
+ben,Benfica Lissabon,2,NA,NA,NA
+bas,FC Basel,2,NA,NA,NA
+ren,Stade Rennes,2,NA,NA,NA
+bl,Bundesliga,3,NA,NA,NA
